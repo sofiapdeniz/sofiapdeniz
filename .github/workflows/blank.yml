@@ -1,0 +1,25 @@
+name: generate-snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: sofiapdeniz
+          outputs: dist/snake.svg
+
+      - name: Fazer commit da Snake gerada
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "snake animation"
+          add: "dist/snake.svg"
