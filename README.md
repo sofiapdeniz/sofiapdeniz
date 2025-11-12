@@ -1,19 +1,19 @@
-<h2 align="left">hello, world ✧.*</h2>
+<h2 align="left">𝒉𝒆𝒍𝒍𝒐, 𝒘𝒐𝒓𝒍𝒅! ✧.*</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sofiapdeniz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiapdeniz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-### ⋆ ˚｡⋆୨୧˚ Tools
+### ⋆ ˚｡⋆୨୧˚ 𝒕𝒐𝒐𝒍𝒔
 [![My Skills](https://skillicons.dev/icons?i=vscode,postman,docker,aws,git,gitlab)](https://skillicons.dev)
 
-### ⋆ ˚｡⋆୨୧˚ Back-end
+### ⋆ ˚｡⋆୨୧˚ 𝒃𝒂𝒄𝒌-𝒆𝒏𝒅
 [![My Skills](https://skillicons.dev/icons?i=php,python)](https://skillicons.dev)
 
-### ⋆ ˚｡⋆୨୧˚ Front-end
+### ⋆ ˚｡⋆୨୧˚ 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-### ⋆ ˚｡⋆୨୧˚ Database
+### ⋆ ˚｡⋆୨୧˚ 𝒅𝒂𝒕𝒂𝒃𝒂𝒔𝒆
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 ##
 
