@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! hello, world <33</h2>
+<h2 align="left">hello, world <33</h2>
 
 ### ✨ GitHub Stats
 
