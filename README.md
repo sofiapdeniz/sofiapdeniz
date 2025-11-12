@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name is Sofia Deniz and I'm a Computer Science student and backend developer from Brazil 🇧🇷</h2>
 
----
-
 ### ✨ GitHub Stats
 
 <div align="center">
@@ -9,21 +7,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiapdeniz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
----
+### 🔨 Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,docker,aws,git,gitlab)](https://skillicons.dev)
 
-### Tools 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,postman,docker,aws,git,gitlab)](https://skillicons.dev)
-
-### Back-end
+### 💻 Back-end
 [![My Skills](https://skillicons.dev/icons?i=php,python)](https://skillicons.dev)
 
-### Front-end
+### 🎨 Front-end
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-### Database
+### 💾 Database
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/sofiadeniz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
@@ -34,7 +30,9 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/sofiapdeniz/sofiapdeniz/main/dist/snake.svg" alt="Snake animation" />
 </p>
+
 ---
