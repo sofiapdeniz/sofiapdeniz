@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sofia Deniz and I'm a Computer Science student and backend developer from Brazil 🇧🇷</h2>
+<h2 align="left">Hi 👋! hello, world <33</h2>
 
 ### ✨ GitHub Stats
 
