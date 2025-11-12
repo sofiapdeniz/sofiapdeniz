@@ -11,13 +11,16 @@
 
 ---
 
-### 🛠️ Tools 
+### Tools 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,postman,docker,aws,git,gitlab)](https://skillicons.dev)
 
-### 🖥️ Back-end
+### Back-end
 [![My Skills](https://skillicons.dev/icons?i=php,python)](https://skillicons.dev)
 
-### 🗄️ Database
+### Front-end
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
+### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 <div align="left">
@@ -31,13 +34,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
-
----
-
-### 🕹️ GitHub Snake Animation
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sofiapdeniz/sofiapdeniz/main/dist/snake.svg" alt="Snake animation" />
 </p>
-
 ---
