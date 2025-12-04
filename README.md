@@ -1,6 +1,5 @@
 <h2 align="left">𝒉𝒆𝒍𝒍𝒐, 𝒘𝒐𝒓𝒍𝒅! ✧.*</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiapdeniz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ---
