@@ -1,5 +1,5 @@
 <h2 align="left">𝒉𝒆𝒍𝒍𝒐, 𝒘𝒐𝒓𝒍𝒅! ✧.* </h2>
-<img src="hellokitty.gif" alt="Hello Kitty Gif" width="200" height="200" style="vertical-align: middle;">
+<img src="hellokitty.gif" alt="Hello Kitty Gif" width="150" height="150" style="vertical-align: middle;">
 <div align="center">
 </div>
 
