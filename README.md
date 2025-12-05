@@ -1,11 +1,11 @@
-<h2 align="left">𝒉𝒆𝒍𝒍𝒐, 𝒘𝒐𝒓𝒍𝒅! ✧.* </h2>
+<h2 align="left">𝒉𝒆𝒍𝒍𝒐, 𝒘𝒐𝒓𝒍𝒅! 𝜗𝜚⋆₊˚</h2>
 <img src="hellokitty.gif" alt="Hello Kitty Gif" width="150" height="150" style="vertical-align: middle;">
 <div align="center">
 </div>
 
 ---
 
-### ⋆ ˚｡⋆୨୧˚ 𝒔𝒐𝒃𝒓𝒆 𝒎𝒊𝒎
+### ⋆ ˚｡⋆୨୧˚ 𝒔𝒐𝒃𝒓𝒆 𝒎𝒊𝒎 ୭̥°⋰˚
 
 Sou a **Sofia**, estudante de Ciência da Computação na **UNIMAR** e com formação técnica em Desenvolvimento de Sistemas.
 
@@ -15,16 +15,16 @@ Embora meu foco seja o Back-end, possuo conhecimentos básicos em Front-end (**H
 
 ---
 
-### ⋆ ˚｡⋆୨୧˚ 𝒕𝒐𝒐𝒍𝒔
+### ⋆ ˚｡⋆୨୧˚ 𝒕𝒐𝒐𝒍𝒔 ୭̥°⋰˚
 [![My Skills](https://skillicons.dev/icons?i=vscode,postman,docker,aws,git,gitlab)](https://skillicons.dev)
 
-### ⋆ ˚｡⋆୨୧˚ 𝒃𝒂𝒄𝒌-𝒆𝒏𝒅
+### ⋆ ˚｡⋆୨୧˚ 𝒃𝒂𝒄𝒌-𝒆𝒏𝒅 ୭̥°⋰˚
 [![My Skills](https://skillicons.dev/icons?i=php,python)](https://skillicons.dev)
 
-### ⋆ ˚｡⋆୨୧˚ 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅
+### ⋆ ˚｡⋆୨୧˚ 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 ୭̥°⋰˚
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-### ⋆ ˚｡⋆୨୧˚ 𝒅𝒂𝒕𝒂𝒃𝒂𝒔𝒆
+### ⋆ ˚｡⋆୨୧˚ 𝒅𝒂𝒕𝒂𝒃𝒂𝒔𝒆 ୭̥°⋰˚
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 ##
 
