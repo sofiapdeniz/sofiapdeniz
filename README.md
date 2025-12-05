@@ -1,4 +1,4 @@
-<h2 align="left">𝒉𝒆𝒍𝒍𝒐, 𝒘𝒐𝒓𝒍𝒅! ✧.*</h2>
+<h2 align="left">𝒉𝒆𝒍𝒍𝒐, 𝒘𝒐𝒓𝒍𝒅! ✧.* <img src="hellokitty.gif" alt="Hello Kitty Gif" width="40" height="40" style="vertical-align: middle;"></h2>
 <div align="center">
 </div>
 
@@ -36,5 +36,5 @@ Embora meu foco seja o Back-end, possuo conhecimentos básicos em Front-end (**H
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sofiapdeniz/sofiapdeniz/main/dist/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/sofiapdeniz/sofiapdeniz/main/dist/snake.svg" alt="Snake animation" />
 </p>
