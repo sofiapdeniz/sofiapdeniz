@@ -11,7 +11,7 @@ Sou a **Sofia**, estudante de Ciência da Computação na **UNIMAR** e com forma
 
 Atualmente, trabalho como **Desenvolvedora Back-end**, com foco em tecnologias como **Python (FastAPI)** e **PHP Laravel**. Possuo conhecimento de infraestrutura (**AWS**, **Docker**) e versionamento (**Git**).
 
-Embora meu foco seja o Back-end, possuo conhecimentos básicos em Front-end (**HTML, CSS, JS**), que me auxiliam na compreensão do desenvolvimento Full Stack. Meu objetivo é aplicar as melhores práticas e evoluir continuamente. Aqui no GitHub, você encontra meus projetos e estudos.
+Embora meu foco seja o Back-end, possuo conhecimentos básicos em Front-end (**HTML, CSS**), que me auxiliam na compreensão do desenvolvimento Full Stack. Meu objetivo é aplicar as melhores práticas e evoluir continuamente. Aqui no GitHub, você encontra meus projetos e estudos.
 
 ---
 
