@@ -1,7 +1,7 @@
 <div align="center">
 
   <h2>𝒉𝒆𝒍𝒍𝒐, 𝒘𝒐𝒓𝒍𝒅! 𝜗𝜚⋆₊˚</h2>
-  <img src="hellokitty.gif" alt="Hello Kitty Gif" width="150" height="150">
+  <img src="bmodance.gif" alt="BMO Gif" width="150" height="150">
 
   <hr>
 
