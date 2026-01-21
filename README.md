@@ -22,7 +22,8 @@
       <td align="left" valign="top">
         <h3>⟢ 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌 ⟢</h3>
         <p><b>Tools</b></p>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,postman,docker,aws,git,gitlab,linux" /></a>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,postman,docker,aws,github,gitlab" /></a><br>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,ubuntu,figma," /></a>
         <p><b>Back-end</b></p>
         <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,csharp" /></a>
         <p><b>Front-end & Database</b></p>
