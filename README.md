@@ -41,7 +41,7 @@
   <a href="https://www.linkedin.com/in/sofia-deniz-a035a3304/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sofiapdeniz05@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/sofiapdeniz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a><br>
-───────────୨ৎ───────────
+──────────୨ৎ──────────
   <br><br>
 
   <img src="https://raw.githubusercontent.com/sofiapdeniz/sofiapdeniz/main/dist/snake.svg" alt="Snake animation" />
