@@ -29,10 +29,6 @@
         <p><b>Front-end & Database</b></p>
         <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,mysql" /></a>
       </td>
-      <td align="center" valign="middle">
-        <h3>⟢ 𝒍𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 ⟢</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiapdeniz&theme=radical&hide_border=true&layout=compact" height="285px" />
-      </td>
     </tr>
   </table>
 
