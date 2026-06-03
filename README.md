@@ -25,9 +25,9 @@
         <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,postman,docker,aws,github,gitlab" /></a><br>
         <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,ubuntu,figma," /></a>
         <p><b>Back-end</b></p>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,csharp" /></a>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi" /></a>
         <p><b>Front-end & Database</b></p>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,mysql" /></a>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,mysql,vue" /></a>
       </td>
     </tr>
   </table>
